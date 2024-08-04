@@ -5,6 +5,7 @@
   "type": "module",
   "scripts": {
     "server": "node app.js",
+    "dev": "node app_main_change.js",
     "lint": "standard"
   },
   "devDependencies": {
